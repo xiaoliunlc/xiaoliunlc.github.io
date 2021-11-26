@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2018-06-22 18:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One long paper has been accepted by [EMNLP 2018](http://emnlp2018.org/), see you at Brussels!

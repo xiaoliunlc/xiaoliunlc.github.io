@@ -37,6 +37,9 @@
             {%- if site.linkedin_username -%}
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
             {% endif %}
+            {%- if site.openreview_userid -%}
+            <a href="https://openreview.net/profile?id=~{{ site.openreview_userid }}" title="OpenReview.net"><i class="ai ai-researcherid"></i></a>
+            {% endif %}
             {%- if site.x_username -%}
             <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
             {% endif %}

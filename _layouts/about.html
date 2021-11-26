@@ -45,17 +45,23 @@ layout: default
             {{ content }}
           </div>
 
+          <!-- Experience -->
+          {%- include experience.html %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
 
-          <!-- Latest posts -->
+          <!-- Activity -->
+          {% include acativity.html %}
+
+          <!-- Latest posts
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
-          {%- endif %}
+          {%- endif %} -->
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
@@ -63,7 +69,7 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
+          <!-- Social
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
@@ -75,7 +81,7 @@ layout: default
               </div>
 
             </div>
-          {%- endif %}
+          {%- endif %} -->
         </article>
 
 </div>
