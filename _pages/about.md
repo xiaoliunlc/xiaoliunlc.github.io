@@ -15,15 +15,14 @@ profile:
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-I am Ph.D. candidate with [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/).
+My name is Xiao Liu (刘啸 in Chinese).
+I am Ph.D. candidate in the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) advised advised by Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
+I’ve also spent time at Netease Youdao (2016) and MSRA (2017).
 
-My research interests are mainly focused on Natural Language Processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
-
-My Ph.D. supervisor is [Prof. Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
-
+My research interests are Natural Language Processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
 
 <!-- Here is my latest [CV](/assets/pdf/xiaoliu-CV.pdf). -->
 
