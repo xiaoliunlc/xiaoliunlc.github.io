@@ -9,7 +9,7 @@ profile:
   align: right
   image: xiaoliu_2021.jpg
   address: >
-    <p>No. 5 South Zhongguancun St., Haidian, Beijing, CN 100081</p>
+    <p>No.5 S Zhongguancun St, Haidian Dist, Beijing, China 100081</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 My name is Xiao Liu (刘啸 in Chinese).
 I am Ph.D. candidate in the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) advised by Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
-I’ve also spent time at Netease Youdao (2016) and MSRA (2017).
+I’ve also spent time at [Netease Youdao](http://www.youdao.com/) (2016) and [MSRA](https://www.msra.cn/) (2017).
 
 My research interests are Natural Language Processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
 
