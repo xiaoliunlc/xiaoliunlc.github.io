@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 My name is Xiao Liu (刘啸 in Chinese).
-I am Ph.D. candidate in the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) advised by Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
+I am a PhD candidate in the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) advised by Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
 I’ve also spent time at [Netease Youdao](http://www.youdao.com/) (2016), [MSRA](https://www.msra.cn/) (2017) and [Tencent](https://www.tencent.com/) (2022).
 
 My research interests are Natural Language Processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
