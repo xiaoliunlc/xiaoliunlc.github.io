@@ -9,7 +9,7 @@ profile:
   align: right
   image: xiaoliu_2021.jpg
   address: >
-    <p>No.5 S Zhongguancun St, Haidian Dist, Beijing, China 100081</p>
+    <p>Building 2, No. 5 Dan Ling Street, Haidian, Beijing 100080 China<p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -17,12 +17,15 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 My name is Xiao Liu (刘啸 in Chinese).
-I am a PhD candidate in the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) advised by Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
-I’ve also spent time at [Netease Youdao](http://www.youdao.com/) (2016), [MSRA](https://www.msra.cn/) (2017) and [Tencent](https://www.tencent.com/) (2022).
+I am a researcher in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
+I obtained my Ph.D. degree from the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
+Before joining MSRA, I’ve also spent time at [Netease Youdao](http://www.youdao.com/) (2016), [MSRA](https://www.msra.cn/) (2017) and [Tencent](https://www.tencent.com/) (2022).
 
-My research interests are Natural Language Processing (especially Event Extraction and Event Schema Induction) with machine learning approaches.
+My current research interests include natural language processing and dense retrieval.
+My Ph.D. thesis is about event extraction and event schema induction.
 
-<!-- Here is my latest [CV](/assets/pdf/xiaoliu-CV.pdf). -->
+We are hiring NLP interns!
+If you’re interested in dense retrieval, please contact me through email.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
