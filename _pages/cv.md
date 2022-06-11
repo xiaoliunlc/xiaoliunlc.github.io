@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: none
 permalink: /assets/pdf/
-title: cv
-nav: true
+title: CV
+nav: false
 nav_order: 5
 cv_pdf: xiaoliu-CV.pdf
 description: CV
