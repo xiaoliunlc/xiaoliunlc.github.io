@@ -113,6 +113,7 @@ Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](
 ```bash
 $ git clone git@github.com:<your-username>/<your-repo-name>.git
 $ cd <your-repo-name>
+$ rm Gemfile.lock
 $ bundle install
 $ bundle exec jekyll serve
 ```
