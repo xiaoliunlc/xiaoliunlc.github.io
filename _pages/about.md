@@ -12,12 +12,12 @@ profile:
     <p>Building 2, No. 5 Dan Ling Street, Haidian, Beijing 100080 China<p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
 My name is Xiao Liu (刘啸 in Chinese).
-I am a researcher in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
+I am a [researcher](https://www.microsoft.com/en-us/research/people/xiaoliu2/) in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
 I obtained my Ph.D. degree from the [School of Computer Science, Beijing Institute of Technology](http://cs.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
 My doctoral thesis is about event extraction and was awarded the excellent Ph.D. thesis of Beijing Institute of Technology.
 Before joining MSRA, I’ve also spent time at [Netease Youdao](http://www.youdao.com/) (2016), [MSRA](https://www.msra.cn/) (2017) and [Tencent](https://www.tencent.com/) (2022).
