@@ -18,13 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Xiao Liu (刘啸 in Chinese).
-I am a [researcher](https://www.microsoft.com/en-us/research/people/xiaoliu2/) in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
+My name is Xiao LIU (刘啸 in Chinese).
+I am a researcher in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
 I obtained my Ph.D. degree from the [School of Computer Science, BIT](http://cs.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
 My doctoral thesis is about event extraction and was awarded *the excellent Ph.D. thesis of Beijing Institute of Technology*.
 Before joining MSRA, I’ve also spent time at [Netease Youdao](http://www.youdao.com/) (2016), [MSRA](https://www.msra.cn/) (2017) and [Tencent](https://www.tencent.com/) (2022).
 
 My current research interests include **natural language processing**, **information retrieval (dense + sparse)** and **information extraction**.
+You can find me in [Microsoft Research](https://www.microsoft.com/en-us/research/people/xiaoliu2/).
 
 <font color="red"><b>We are hiring NLP interns! If you’re interested in information retrieval, please contact me through email (xiao.liu.msrasia AT microsoft.com).</b></font>
 
