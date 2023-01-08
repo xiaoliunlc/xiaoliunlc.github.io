@@ -7,7 +7,7 @@ description: # <a href="https://cs.bit.edu.cn/">School of Computer Science</a>, 
 
 profile:
   align: right
-  image: xiaoliu2023.jpg
+  image: xiaoliu.jpg
   address: >
     <p>Building 2, No. 5 Dan Ling Street, Haidian, Beijing 100080 China<p>
 
