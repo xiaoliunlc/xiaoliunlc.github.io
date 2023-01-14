@@ -7,7 +7,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: xiaoliu_2021.jpg
+  image: xiaoliu2023.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
     <p>No. 5 South Zhongguancun St., Haidian, Beijing, CN 100081</p>
