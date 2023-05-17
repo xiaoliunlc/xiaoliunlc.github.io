@@ -27,7 +27,7 @@ You can find me in [Microsoft Research](https://www.microsoft.com/en-us/research
 
 <font color="red"><b>
 Please visit and star our opensource project <a href="https://github.com/microsoft/SimXNS">SimXNS</a>.
-We are hiring NLP interns! If you’re interested in information retrieval, please contact me through email (xiao.liu.msrasia AT microsoft.com).
+We are hiring NLP interns! If you’re interested, please contact me through email (xiao.liu.msrasia AT microsoft.com).
 </b></font>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
