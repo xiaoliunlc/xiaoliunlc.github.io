@@ -20,7 +20,6 @@ My name is Xiao LIU (刘啸 in Chinese).
 I am a researcher in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
 I obtained my Ph.D. degree from the [School of Computer Science, BIT](http://cs.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
 My doctoral thesis is about event extraction and was awarded the excellent Ph.D. thesis of Beijing Institute of Technology.
-
 My current research interests include **generation**, **retrieval** and **extraction**.
 You can find me in [Microsoft Research](https://www.microsoft.com/en-us/research/people/xiaoliu2/).
 
