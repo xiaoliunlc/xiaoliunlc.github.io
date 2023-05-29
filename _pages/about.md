@@ -24,7 +24,7 @@ My current research interests include **generation**, **retrieval** and **extrac
 You can find me in [Microsoft Research](https://www.microsoft.com/en-us/research/people/xiaoliu2/).
 
 <font color="red"><b>
-Please visit and star our open-source project <a href="https://github.com/microsoft/SimXNS">SimXNS</a> on information retrieval.
+Please visit and star our open-source project <a href="https://github.com/microsoft/ProphetNet">ProphetNet</a> on generation and <a href="https://github.com/microsoft/SimXNS">SimXNS</a> on retrieval.
 We are hiring NLP interns! If you’re interested, please contact me through email (xiao.liu.msrasia AT microsoft.com).
 </b></font>
 
