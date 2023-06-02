@@ -8,9 +8,8 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: xiaoliu2023.jpg
-  image_circular: True # crops the image to make it circular
-  more_info: >
-    <p>No. 5 South Zhongguancun St., Haidian, Beijing, CN 100081</p>
+  address: >
+    <p>Building 2, No. 5 Dan Ling Street, Beijing 100080 CN<p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 My name is Xiao LIU (刘啸 in Chinese).
-I am a researcher in the Natural Language Computing (NLC) group at [MSRA](https://www.msra.cn/).
-I obtained my Ph.D. degree from the [School of Computer Science, BIT](http://cs.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
+I am a researcher in the [Natural Language Computing](https://www.microsoft.com/en-us/research/group/natural-language-computing/) group at [MSRA](https://www.msra.cn/).
+I obtained my Ph.D. degree from [BIT](http://www.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
 My doctoral thesis is about event extraction and was awarded the excellent Ph.D. thesis of Beijing Institute of Technology.
 My current research interests include **generation**, **retrieval** and **extraction**.
 You can find me in [Microsoft Research](https://www.microsoft.com/en-us/research/people/xiaoliu2/).
