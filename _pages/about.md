@@ -19,10 +19,11 @@ social: false  # includes social icons at the bottom of the page
 
 My name is Xiao LIU (刘啸 in Chinese).
 I am a researcher in the [Natural Language Computing](https://www.microsoft.com/en-us/research/group/natural-language-computing/) group at [MSRA](https://www.msra.cn/).
-I obtained my Ph.D. degree from [BIT](http://www.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
-My doctoral thesis is about event extraction and was awarded the "Excellent Doctoral Dissertation" of [CIPS](https://www.cipsc.org.cn/) in 2023 (now called "Doctoral Dissertation Incentive Plan") and of BIT in 2022.
 My current research interests include **generation**, **retrieval** and **extraction**.
 You can find me in [Microsoft Research](https://www.microsoft.com/en-us/research/people/xiaoliu2/).
+
+I obtained my Ph.D. degree from [BIT](http://www.bit.edu.cn/) in June 2022, under the supervision of Prof. [Heyan Huang](http://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm).
+My doctoral thesis was awarded the "Excellent Doctoral Dissertation" of [CIPS](https://www.cipsc.org.cn/) in 2023 (now called "Doctoral Dissertation Incentive Plan") and of BIT in 2022.
 
 <font color="red"><b>
 Please visit and star our open-source project <a href="https://github.com/microsoft/ProphetNet">ProphetNet</a> on generation and <a href="https://github.com/microsoft/SimXNS">SimXNS</a> on retrieval.
