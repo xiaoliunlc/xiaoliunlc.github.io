@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -86,8 +86,6 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 stackoverflow_id: #your stackoverflow id
-
-rss_icon: false
 
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
