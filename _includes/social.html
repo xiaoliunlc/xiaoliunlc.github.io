@@ -1,5 +1,17 @@
-            {%- if site.email -%}
+            <!-- {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+            {% endif %} -->
+            {%- if site.microsoft_research_alias -%}
+            <a href="https://www.microsoft.com/en-us/research/people/{{ site.microsoft_research_alias }}/" title="Microsoft Research"><i class="fa-brands fa-microsoft"></i></a>
+            {% endif %}
+            {%- if site.github_username -%}
+            <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
+            {% endif %}
+            {%- if site.linkedin_username -%}
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+            {% endif %}
+            {%- if site.huggingface_username -%}
+            <a href="https://huggingface.co/{{ site.huggingface_username }}" title="Hugging Face"><i class="fa-regular fa-face-smile"></i></a>
             {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
@@ -30,12 +42,6 @@
             {% endif %}
             {%- if site.scopus_id -%}
             <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
-            {% endif %}
-            {%- if site.github_username -%}
-            <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
-            {% endif %}
-            {%- if site.linkedin_username -%}
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
             {% endif %}
             {%- if site.openreview_userid -%}
             <a href="https://openreview.net/profile?id=~{{ site.openreview_userid }}" title="OpenReview.net"><i class="ai ai-researcherid"></i></a>

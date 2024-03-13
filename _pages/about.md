@@ -8,8 +8,9 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: xiaoliu2023.jpg
-  address: >
-    <p>Building 2, No. 5 Dan Ling Street, Beijing 100080 CN<p>
+  image_circular: true
+  # more_info: >
+  #   <p>Building 2, No. 5 Dan Ling Street, Beijing 100080 CN<p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -26,8 +27,3 @@ Please visit and star our open-source project <a href="https://github.com/micros
 We are hiring NLP interns! If you’re interested, please contact me through email (xiao.liu.msrasia AT microsoft.com).
 </b></font>
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
