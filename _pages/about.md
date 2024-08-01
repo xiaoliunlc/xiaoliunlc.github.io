@@ -23,7 +23,6 @@ His current research interests include NLP, multimodality and reasoning.
 He obtained his B.S. degree (June 2016) and Ph.D. degree (June 2022) from [BIT](http://www.bit.edu.cn/) and was awarded the "Excellent Doctoral Dissertation" of [CIPS](https://www.cipsc.org.cn/) in 2023 (now called "Doctoral Dissertation Incentive Plan") and of BIT in 2022.
 
 <font color="red"><b>
-Please visit and star our open-source project <a href="https://github.com/microsoft/ProphetNet">ProphetNet</a> on generation and <a href="https://github.com/microsoft/SimXNS">SimXNS</a> on retrieval.
-We are hiring NLP interns! If you’re interested, please contact me through email (xiao.liu.msrasia AT microsoft.com).
+Please visit and star our open-source project <a href="https://github.com/microsoft/rho">Rho</a> on LLM, <a href="https://github.com/microsoft/ProphetNet">ProphetNet</a> on generation and <a href="https://github.com/microsoft/SimXNS">SimXNS</a> on retrieval.
+We are hiring LLM interns! If you’re interested, please contact me through email (xiao.liu.msrasia AT microsoft.com).
 </b></font>
-
