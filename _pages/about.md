@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Dr. Xiao LIU (刘啸 in Chinese) is a researcher in the NLC group of [MSRA](https://www.microsoft.com/en-us/research/people/xiaoliu2/).
-His current research interests include NLP, multimodality and reasoning.
+Dr. Xiao LIU (刘啸 in Chinese) is a senior researcher at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+His current research interests include NLP, LLM and reasoning.
 He obtained his B.S. degree (June 2016) and Ph.D. degree (June 2022) from [BIT](http://www.bit.edu.cn/) and was awarded the "Excellent Doctoral Dissertation" of [CIPS](https://www.cipsc.org.cn/) in 2023 (now called "Doctoral Dissertation Incentive Plan") and of BIT in 2022.
 
 <font color="red"><b>
