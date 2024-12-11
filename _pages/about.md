@@ -20,7 +20,9 @@ social: false  # includes social icons at the bottom of the page
 
 Dr. Xiao LIU (刘啸 in Chinese) is a senior researcher at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
 His current research interests include NLP, LLM and reasoning.
-He obtained his B.S. degree (June 2016) and Ph.D. degree (June 2022) from [BIT](http://www.bit.edu.cn/) and was awarded the "Excellent Doctoral Dissertation" of [CIPS](https://www.cipsc.org.cn/) in 2023 (now called "Doctoral Dissertation Incentive Plan") and of BIT in 2022.
+He obtained his B.S. degree (June 2016) and Ph.D. degree (June 2022) from [BIT](http://www.bit.edu.cn/).
+He was awarded the "Excellent Doctoral Dissertation" of [CIPS](https://www.cipsc.org.cn/) in 2023 (now called "Doctoral Dissertation Incentive Plan") and of BIT in 2022.
+He received the [Best Paper Runner-Up Award in NeurIPS 2024](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/).
 
 <font color="red"><b>
 Please visit and star our open-source project <a href="https://github.com/microsoft/rho">Rho</a> on LLM, <a href="https://github.com/microsoft/ProphetNet">ProphetNet</a> on generation and <a href="https://github.com/microsoft/SimXNS">SimXNS</a> on retrieval.
